@@ -1,4 +1,4 @@
-
+#由于喜欢github，故直接上github上了，如有版权问题请联系我。
 # QWadmin
 基于thinkphp与aceadmin模板的后台管理系统
 
